@@ -98,12 +98,6 @@
             <mxPoint x="690" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKaCLtnwJ5cAN8PZsbXw-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="32.5" y="715" width="25" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="DKaCLtnwJ5cAN8PZsbXw-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4otFIhIFJ4PY7VoheAA3-10" target="DKaCLtnwJ5cAN8PZsbXw-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
