@@ -244,13 +244,11 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-121" value="输入邮箱号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="2570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-125">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="693.4706744025734" y="2706.411886776195" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-125" target="fg1vu7cEi7QKfQDkrtWX-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-125" value="校验邮箱" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="2680" width="80" height="80" as="geometry" />
+          <mxGeometry x="485" y="2693" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
