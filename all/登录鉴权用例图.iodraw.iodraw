@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-16" value="登录鉴权" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="421" width="362" height="348" as="geometry" />
+          <mxGeometry x="229" y="421" width="414" height="382" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-17" value="账号密码登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-16">
           <mxGeometry x="25" y="72" width="104" height="46" as="geometry" />
