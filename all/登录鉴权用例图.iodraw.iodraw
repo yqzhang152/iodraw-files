@@ -168,6 +168,12 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-81" value="启动脚本，监控对话房间的创建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-72">
           <mxGeometry x="230" y="77" width="186" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-82" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="fg1vu7cEi7QKfQDkrtWX-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="174" as="sourcePoint" />
+            <mxPoint x="197" y="233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
