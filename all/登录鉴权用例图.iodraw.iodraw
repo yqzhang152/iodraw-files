@@ -224,6 +224,11 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-110" target="fg1vu7cEi7QKfQDkrtWX-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-146" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fg1vu7cEi7QKfQDkrtWX-115">
+          <mxGeometry x="-0.4536" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-110" value="校验用户名密码" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="266" y="2680" width="80" height="80" as="geometry" />
         </mxCell>
