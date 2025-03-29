@@ -213,7 +213,7 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-110" target="fg1vu7cEi7QKfQDkrtWX-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-113" value="校验通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fg1vu7cEi7QKfQDkrtWX-112">
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-113" value="校验未通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fg1vu7cEi7QKfQDkrtWX-112">
           <mxGeometry x="0.072" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
