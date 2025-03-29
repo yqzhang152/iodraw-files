@@ -174,8 +174,8 @@
             <mxPoint x="197" y="233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-83" value="向房间中加入agent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-72">
-          <mxGeometry x="230" y="168" width="120" height="26" as="geometry" />
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-83" value="向新建的房间中加入agent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-72">
+          <mxGeometry x="212" y="168" width="156" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
