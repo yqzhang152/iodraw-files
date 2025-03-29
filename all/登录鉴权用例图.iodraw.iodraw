@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-49" value="查看课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
-          <mxGeometry x="16" y="256" width="140" height="70" as="geometry" />
+          <mxGeometry x="4" y="313" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-50" value="故事类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
           <mxGeometry x="233" y="210" width="140" height="70" as="geometry" />
