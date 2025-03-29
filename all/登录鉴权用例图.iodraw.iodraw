@@ -67,7 +67,7 @@
           <mxGeometry x="199" y="815" width="614" height="807" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-40" value="创建新课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
-          <mxGeometry x="11" y="76" width="140" height="70" as="geometry" />
+          <mxGeometry x="4" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-44" value="上传文本内容创建课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
           <mxGeometry x="364" y="22.5" width="140" height="70" as="geometry" />
