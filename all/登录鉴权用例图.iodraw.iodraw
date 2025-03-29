@@ -91,10 +91,10 @@
           <mxGeometry x="4" y="313" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-50" value="故事类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
-          <mxGeometry x="219" y="284" width="140" height="70" as="geometry" />
+          <mxGeometry x="219" y="257" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-51" value="问答类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
-          <mxGeometry x="207" y="374" width="140" height="70" as="geometry" />
+          <mxGeometry x="219" y="370" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.003;exitY=0.391;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="fg1vu7cEi7QKfQDkrtWX-36" source="fg1vu7cEi7QKfQDkrtWX-49" target="fg1vu7cEi7QKfQDkrtWX-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
