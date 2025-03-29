@@ -63,6 +63,9 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-35" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="1124" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-36" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="1009" width="372" height="395" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
