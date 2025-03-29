@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-55" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
-          <mxGeometry x="10" y="548" width="140" height="70" as="geometry" />
+          <mxGeometry x="10" y="499" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-57" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
           <mxGeometry x="10" y="766" width="140" height="70" as="geometry" />
