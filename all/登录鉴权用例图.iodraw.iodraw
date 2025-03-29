@@ -60,7 +60,7 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-16">
           <mxGeometry x="125" y="175" width="84" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-35" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-35" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="1124" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
