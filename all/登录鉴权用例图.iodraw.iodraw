@@ -332,7 +332,7 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-160" target="fg1vu7cEi7QKfQDkrtWX-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-160" value="选择故事类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-160" value="选择故事类型，选择插画类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="3897" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-162" value="根据提示词生成问答类型的课程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -341,7 +341,7 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-164" target="fg1vu7cEi7QKfQDkrtWX-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-164" value="选择插画类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-164" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="4016" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-166" target="fg1vu7cEi7QKfQDkrtWX-168">
