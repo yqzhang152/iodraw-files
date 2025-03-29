@@ -79,7 +79,7 @@
           <mxGeometry x="364" y="22.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-45" value="调用生成式ai的接口根据提示词生成课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
-          <mxGeometry x="364" y="130.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="367" y="129" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
