@@ -165,8 +165,8 @@
             <mxPoint x="252" y="41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-81" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="371" y="1792" width="40" height="26" as="geometry" />
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-81" value="启动脚本，监控房间的创建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1792" width="162" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
