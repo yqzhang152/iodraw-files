@@ -320,7 +320,7 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-156" target="fg1vu7cEi7QKfQDkrtWX-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-156" value="扩充提示词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-156" value="用户填入提示词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="3671" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-158" target="fg1vu7cEi7QKfQDkrtWX-160">
