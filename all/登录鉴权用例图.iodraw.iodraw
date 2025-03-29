@@ -344,8 +344,14 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-164" value="选择插画类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="4016" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-166" target="fg1vu7cEi7QKfQDkrtWX-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-166" value="选择故事页数，标签" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="4126" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-168" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="4266" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
