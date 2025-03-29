@@ -364,8 +364,14 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-174" value="选择问题数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="3780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-178" target="fg1vu7cEi7QKfQDkrtWX-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-178" value="选了问题类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="3920" width="120" height="60" as="geometry" />
+          <mxGeometry x="608" y="3901" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-180" value="生成问答类课程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="608" y="4031" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
