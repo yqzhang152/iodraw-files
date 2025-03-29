@@ -355,6 +355,9 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-170" value="生成故事大纲" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="4217" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-172" target="fg1vu7cEi7QKfQDkrtWX-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-172" value="根据根据大纲生成绘本课程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="4330" width="120" height="60" as="geometry" />
         </mxCell>
@@ -373,8 +376,8 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-180" value="生成问答类课程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="4031" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-182" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="657" y="4310" width="120" height="80" as="geometry" />
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-182" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="4320" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
