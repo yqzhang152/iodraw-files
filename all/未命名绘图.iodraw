@@ -7,10 +7,8 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="541" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="304" y="471" width="200" height="200" as="geometry">
-            <mxRectangle x="304" y="471" width="50" height="44" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="247" y="429" width="261" height="261" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
