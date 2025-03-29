@@ -276,6 +276,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-145" value="校验未通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fg1vu7cEi7QKfQDkrtWX-144">
+          <mxGeometry x="0.0024" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-140" value="校验邮箱号和验证码" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="3058" width="80" height="80" as="geometry" />
         </mxCell>
