@@ -299,16 +299,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-151" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fg1vu7cEi7QKfQDkrtWX-149">
-          <mxGeometry x="0.0066" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-140" value="校验邮箱号和验证码" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="627" y="3054" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-148" value="返回token" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="442" y="3064" width="120" height="60" as="geometry" />
+          <mxGeometry x="384" y="3064" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
