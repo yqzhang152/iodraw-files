@@ -210,7 +210,7 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-104" value="输入用户名密码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="2617" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-106" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-106" value="校验用户名、密码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="2757" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
