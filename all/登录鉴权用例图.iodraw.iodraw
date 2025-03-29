@@ -24,12 +24,12 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-90" value="鉴权" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-6">
           <mxGeometry x="26.5" y="366" width="101" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-97" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-6">
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-97" value="token" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-6">
           <mxGeometry x="233" y="72" width="92" height="41" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="fg1vu7cEi7QKfQDkrtWX-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="83" y="147" as="sourcePoint" />
+            <mxPoint x="228" y="93" as="sourcePoint" />
             <mxPoint x="133" y="97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
