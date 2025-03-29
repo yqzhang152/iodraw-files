@@ -356,8 +356,14 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-168" value="综合上面的信息，扩充提示词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="4251" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-170" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="408" y="4391" width="120" height="60" as="geometry" />
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-170" target="fg1vu7cEi7QKfQDkrtWX-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-170" value="生成故事大纲" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="4373" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-172" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="4513" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
