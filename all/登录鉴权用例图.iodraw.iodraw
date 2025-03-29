@@ -24,8 +24,8 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-90" value="鉴权" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-6">
           <mxGeometry x="26.5" y="366" width="101" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-95" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-6">
-          <mxGeometry x="212" y="65" width="120" height="80" as="geometry" />
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-95" value="返回token" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-6">
+          <mxGeometry x="249" y="72" width="95" height="47" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-35" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="1126" width="30" height="101" as="geometry" />
