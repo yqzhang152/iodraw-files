@@ -64,18 +64,18 @@
           <mxGeometry x="84" y="1124" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-36" value="课程模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="181" y="804" width="614" height="807" as="geometry" />
+          <mxGeometry x="70" y="841" width="614" height="807" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-40" value="创建新课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
           <mxGeometry x="4" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-44" value="上传文本内容创建课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
-          <mxGeometry x="389" y="26" width="140" height="70" as="geometry" />
+          <mxGeometry x="226" y="24" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-45" value="调用生成式ai的接口根据提示词生成课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
           <mxGeometry x="233" y="110" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fg1vu7cEi7QKfQDkrtWX-36" target="fg1vu7cEi7QKfQDkrtWX-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="154" y="107.5" as="sourcePoint" />
             <mxPoint x="359" y="61.5" as="targetPoint" />
