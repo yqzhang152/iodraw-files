@@ -236,13 +236,19 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-119" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="2934" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fg1vu7cEi7QKfQDkrtWX-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-121">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="2697" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-121" target="fg1vu7cEi7QKfQDkrtWX-129">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-121" value="输入邮箱号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="2570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fg1vu7cEi7QKfQDkrtWX-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457.2353228400734" y="2740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-129" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="2700" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
