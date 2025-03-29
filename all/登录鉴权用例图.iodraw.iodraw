@@ -177,6 +177,12 @@
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-83" value="向新建的房间中加入agent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-72">
           <mxGeometry x="212" y="168" width="156" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="fg1vu7cEi7QKfQDkrtWX-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="fg1vu7cEi7QKfQDkrtWX-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1" y="147" as="sourcePoint" />
+            <mxPoint x="49" y="97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
