@@ -64,7 +64,7 @@
           <mxGeometry x="84" y="1126" width="30" height="101" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-36" value="课程模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="840" width="539" height="847" as="geometry" />
+          <mxGeometry x="226" y="840" width="606" height="784" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-40" value="创建新课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
           <mxGeometry x="4" y="78" width="140" height="70" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="10" y="499" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-57" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fg1vu7cEi7QKfQDkrtWX-36">
-          <mxGeometry x="10" y="766" width="140" height="70" as="geometry" />
+          <mxGeometry x="4" y="677" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
