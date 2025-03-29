@@ -142,7 +142,7 @@
           <mxGeometry x="-99" y="1986" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fg1vu7cEi7QKfQDkrtWX-72" value="房间管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="93" y="1731" width="664" height="576" as="geometry" />
+          <mxGeometry x="93" y="1731" width="673" height="626" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
