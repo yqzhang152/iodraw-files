@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object label="Actor" id="fg1vu7cEi7QKfQDkrtWX-1">
+        <object label="用户" id="fg1vu7cEi7QKfQDkrtWX-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
             <mxGeometry x="86" y="541" width="30" height="60" as="geometry" />
           </mxCell>
